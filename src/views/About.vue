@@ -186,7 +186,7 @@ export default {
     left: -12vw;
     transform: translate3d(0, -50%, 0);
     width: 43vw;
-    aspect-ratio: 1/1;
+    aspect-ratio: 1/1.9;
     border-radius: 100%;
     background-image: url(../assets/me2.jpeg);
     background-repeat: no-repeat;
