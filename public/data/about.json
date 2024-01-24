@@ -1,0 +1,63 @@
+{
+  "email": "bhaumik0369@gmail.com",
+  "links": [
+    {
+      "url": "https://www.linkedin.com/in/bhaumiksonii/",
+      "title": "LinkedIn",
+      "icon": "LinkedInIcon"
+    },
+    {
+      "url": "https://github.com/bhaumiksonii",
+      "title": "GitHub",
+      "icon": "GithubIcon"
+    }
+  ],
+  "cv": {
+    "file": "bhaumik.soni.cv.pdf",
+    "title": "Download CV",
+    "label": "CV"
+  },
+  "description": [
+    "Cloud Data Engineer deeply entrenched in the world of data orchestration, this individual finds solace in the rhythm of cricket, the melody of music, and the aesthetics of both code and life.",
+    "From Bharuch, based in India."
+  ],
+  "subtitles": ["he/him"],
+  "skills": [
+    ["Data Architect", "Cloud Specialist", "Database Developer"],
+    ["Backend", "Data processing"],
+    [
+      "Python",
+      "Spark",
+      "Nifi",
+      "Serverless",
+      "Terraform",
+      "SSH Client",
+      "OCR",
+      "GitOps"
+    ],
+    ["ETL", "Database engineer", "Kubernetes Administrator"]
+  ],
+  "experiences": [
+    {
+      "position": "Senior Software Engineer",
+      "company": "Squadron Technologies",
+      "time": "* current"
+    },
+    {
+      "position": "Co-founder",
+      "company": "Inside.Bakes",
+      "time": "2020-2022"
+    }
+  ],
+  "languages": {
+    "fluent": [
+      ["en-US", "English"],
+      ["hi-IN", "Hindi"],
+      ["gu-IN", "Gujarati"]
+    ],
+    "basic": [
+      ["de-DE", "Deutsch"]
+    ]
+  },
+  "busy": ["Watching cricket", "History", "Games", "#suiiiiiiiiiii"]
+}
