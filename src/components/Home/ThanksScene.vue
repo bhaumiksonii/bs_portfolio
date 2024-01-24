@@ -50,7 +50,7 @@ const SPOTIFY_TRACK = 'https://open.spotify.com/track/'
 const SONGS = [
   {
     id: '1pYBTRBbp3PCcdqoke2QSN',
-    label: 'BadBadNotGood',
+    label: 'Jo bhi main',
   },
 
   {
